@@ -4,7 +4,7 @@ So far, I have learnt a lot including how to use MS Excel to clean, organize, an
 In addition, I learnt how to create a portfolio from scratch using GitHub. Now, I have a GitHub account.
 Currently, I am learning how to use PowerBi to analyze data.
 
-##Project Topic
+## Project Topic
 
 
-##Project Overview
+## Project Overview
