@@ -18,8 +18,3 @@ Using MS Excel, I learnt:
 5.) VLOOKUP and XLOOKUP
 
 6.) Pivot table and pivot chart for data summarization
-
-## Project Topic
-
-
-## Project Overview
